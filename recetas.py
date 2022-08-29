@@ -30,7 +30,7 @@ def leer_recetas():
   categoria = menu_categorias()
 #* codigo--
 
-print("saludos invocador")
+print("saludos invocadora")
 saludo()
 opcion = 0
 while opcion != 6:
